@@ -5,7 +5,7 @@ The simplest key-value store with HTTP API
 
 ## Build Instructions
 
-Maybe some day
+Just run `xmake`
 
 ## HTTP API
 
